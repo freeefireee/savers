@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/savers/static/css/main.c7ec3132.css",
+    "main.js": "/savers/static/js/main.ea455b43.js",
+    "index.html": "/savers/index.html",
+    "main.c7ec3132.css.map": "/savers/static/css/main.c7ec3132.css.map",
+    "main.ea455b43.js.map": "/savers/static/js/main.ea455b43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.ea455b43.js"
+  ]
+}
